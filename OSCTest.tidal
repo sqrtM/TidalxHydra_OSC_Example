@@ -1,0 +1,5 @@
+o 1 $ n "0*8"
+    # pan (range 0.5 2.5 tri)
+    # cut 3
+    # crush "0 0.5 1 1.5 1"
+ -- # silence
